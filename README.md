@@ -3,4 +3,4 @@
 
 Brindado por:
 [Egg Cooperation](https://egg.live/) - 
-[Globant Univerity](https://university.globant.com/)
+[Globant University](https://university.globant.com/)
